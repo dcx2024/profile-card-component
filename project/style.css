@@ -104,7 +104,7 @@ p,span{
 
 }
 
-@media(min-width: 700px){
+@media(min-width: 500px){
     svg{
         width:40%;
        top: 10vw;
